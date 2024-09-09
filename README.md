@@ -1,4 +1,4 @@
-Estão anexadas neste repositório as soluções dos desafios apresentados durante o processo de recrutamento da Target Sistemas. A linguagem utilizada para desenvolver as questões foi Python.
+Neste repositório, você encontrará as questões e as respectivas soluções referentes à segunda etapa do processo de recrutamento da Target Sistemas. As soluções foram desenvolvidas utilizando Python.
 
 QUESTÕES PROPOSTAS:
 
