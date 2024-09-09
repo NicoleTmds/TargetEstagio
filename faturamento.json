@@ -1,0 +1,9 @@
+{
+    "faturamento": [
+        {"dia": 1, "valor": 1500.00},
+        {"dia": 2, "valor": 2000.00},
+        {"dia": 3, "valor": 0.00},
+        {"dia": 4, "valor": 0.00},
+        {"dia": 5, "valor": 1800.00}
+    ]
+}
